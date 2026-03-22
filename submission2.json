@@ -1,0 +1,6 @@
+{
+  "prompt": "A master tailor's atelier. In the center, a single mannequin wearing an extraordinarily precise bespoke suit — every seam, dart, and fold cut to accommodate one specific body's idiosyncrasies: a slightly hunched left shoulder, a longer right arm, an uneven collar line. The fit on this mannequin is uncanny, almost sculptural. Around it, on other mannequins and draped over chairs, are attempts to put the same suit on other forms — it puckers badly at the shoulders, gapes at the chest, twists at the waist. The tailor stands to the side, examining his masterwork with quiet pride, unaware of the failures surrounding him. Soft north-facing atelier light, dust motes, bolts of fine wool in the background. Photorealistic, 35mm documentary photography style, no text, no labels, no diagrams, no annotations. Negative prompt: diagram, graph, chart, label, text, numbers, equations, neural network, glowing, digital, interface, screen, data visualization, icons, abstract, surreal",
+  "model": "DALL·E 3 / Flux Pro 1.1",
+  "concept": "overfitting",
+  "metaphor": "A suit cut to one body's precise quirks fits that mannequin perfectly but fails on all others — memorizing the individual, not the general form."
+}
